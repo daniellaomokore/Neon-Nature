@@ -1,7 +1,6 @@
 # Neon Nature<br/>
-This project is a website for a fictional art exhibition called "Neon Nature". 
-
-
+This project is a website for a fictional art exhibition called "Neon Nature"
+https://daniellaomokore.github.io/Neon-Nature/
 
 -Features:
 
@@ -9,6 +8,11 @@ This project is a website for a fictional art exhibition called "Neon Nature".
 ▪ Ticket Booking 
 ▪ Interactive Map for Directions 
 ▪ Email Contact Form
+
+<img width="902" alt="image" src="https://user-images.githubusercontent.com/79287671/227501261-31f9d883-241e-4973-a1a2-3917cdd56e3f.png">
+<img width="905" alt="image" src="https://user-images.githubusercontent.com/79287671/227501365-de01e142-c348-4161-8a27-fdf80e720c39.png">
+<img width="871" alt="image" src="https://user-images.githubusercontent.com/79287671/227501521-19e033c3-04c1-4a30-8663-6286356e6094.png">
+<img width="793" alt="image" src="https://user-images.githubusercontent.com/79287671/227501737-f0d1a5fa-1f85-4e28-be9f-9121814c6848.png">
 
 ## The brief
 
@@ -57,6 +61,4 @@ The website also makes use of **Google Fonts** and **Font Awesome** icons.
 
 The images of the exhibition used in the project were generated using the **Midjourney** Bot on Discord.
 
-## Screenshot
 
-![](./screenshot-home.png)
