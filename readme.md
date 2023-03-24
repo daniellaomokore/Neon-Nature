@@ -14,7 +14,7 @@ https://daniellaomokore.github.io/Neon-Nature/
 <img width="871" alt="image" src="https://user-images.githubusercontent.com/79287671/227501521-19e033c3-04c1-4a30-8663-6286356e6094.png">
 <img width="793" alt="image" src="https://user-images.githubusercontent.com/79287671/227501737-f0d1a5fa-1f85-4e28-be9f-9121814c6848.png">
 
-## The brief
+## The Brief
 
 To work in a group to create a website project meeting the following criteria.
 
@@ -35,13 +35,12 @@ Nice to haves:
 
 
 
-It consists of 6 pages:
+It consists of 5 pages:
 
 - Home: the website home page
 - The Exhibition: a page giving further detail about the exhibition
 - Visitor Information: including opening times, location, faqs etc.
 - Book Tickets: a form to book tickets for the exhibition
-- Art Shop: (page not developed)
 - Contact: a form to submit queries about the exhibition
 
 The website uses the **Bootstrap** framework alongside a local CSS file. The Bootstrap framework is used to implement the following elements:
