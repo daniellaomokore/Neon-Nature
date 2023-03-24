@@ -1,6 +1,15 @@
 # Neon Nature<br/>
 This project is a website for a fictional art exhibition called "Neon Nature". 
 
+
+
+-Features:
+
+▪ Email Subscriptions
+▪ Ticket Booking 
+▪ Interactive Map for Directions 
+▪ Email Contact Form
+
 ## The brief
 
 To work in a group to create a website project meeting the following criteria.
